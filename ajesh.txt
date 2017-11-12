@@ -1,0 +1,3 @@
+cat > anish.txt
+cat ram.txt
+cat> .gitignored
